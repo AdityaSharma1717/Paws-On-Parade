@@ -78,7 +78,7 @@ const Header = () => {
 
               <li>
                 <NavLink
-                  to="http://localhost/pop_db/index.php"
+                  to="http://localhost/login/index.php"
                   className={({ isActive }) =>
                     `block py-2 pr-4 pl-3 duration-200 ${
                       isActive
